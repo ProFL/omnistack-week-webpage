@@ -11,7 +11,8 @@
     "react-icons": "^3.5.0",
     "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8",
-    "socket.io-client": "^2.2.0"
+    "socket.io-client": "^2.2.0",
+    "styled-components": "^4.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -29,7 +30,12 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "eslint": "5.12.0",
-    "eslint-plugin-react": "^7.12.4"
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-import": "^2.17.1",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "prettier": "^1.17.0"
   }
 }
